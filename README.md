@@ -3,6 +3,7 @@
 Bu mening GitHub profilim uchun Snake Animation:
 ![Snake animation](https://raw.githubusercontent.com/michael-abdul/michael-abdul/output/github-contribution-grid-snake.svg)
 
+
 <!--
 **michael-abdul/michael-abdul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
