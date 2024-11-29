@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Snake animation](https://raw.githubusercontent.com/michael-abdul/michael-abdul/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/michael-abdul/michael-abdul/blob/output/github-contribution-grid-snake.gif)
