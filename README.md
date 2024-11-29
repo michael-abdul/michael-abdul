@@ -1,8 +1,8 @@
 # 💻 Michael Abdul
 
-### 🚀 Full Stack Web & App Developer | Problem Solver | Tech Enthusiast
+### 🚀 Full Stack Web & App Developer
 
-Hi there! I'm **Michael Abdul**, a passionate **Full Stack Developer** specializing in building modern web and mobile applications. My curiosity for technology and knack for problem-solving drive me to create innovative and efficient solutions.
+Hi there! I'm **Abdulaziz Klichev**, a passionate **Full Stack Developer** specializing in building modern web and mobile applications.
 
 ---
 
@@ -10,7 +10,7 @@ Hi there! I'm **Michael Abdul**, a passionate **Full Stack Developer** specializ
 
 ### **Frontend Development**
 - ⚡ React.js, Next.js
-- ⚡ HTML5, CSS3, SCSS, TailwindCSS, Bootstrap
+- ⚡ HTML5, CSS3, SCSS, TailwindCSS, MaterialUI, Bootstrap
 - ⚡ TypeScript, JavaScript (ES6+)
 
 ### **Backend Development**
@@ -21,15 +21,14 @@ Hi there! I'm **Michael Abdul**, a passionate **Full Stack Developer** specializ
 
 ### **Mobile Development**
 - ⚡ Flutter
-- ⚡ React Native
 
 ### **Database Management**
-- ⚡ MongoDB, PostgreSQL, MySQL
-- ⚡ Firebase
+- ⚡ MongoDB, Firebase
+- ⚡ SQLite
 
 ### **DevOps & Tools**
-- ⚡ Docker, Kubernetes
-- ⚡ Git, GitHub Actions, CI/CD
+- ⚡ Docker, PM2
+- ⚡ Git, GitHub, Gitea
 - ⚡ Nginx, PM2
 
 ---
@@ -48,7 +47,6 @@ Hi there! I'm **Michael Abdul**, a passionate **Full Stack Developer** specializ
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
@@ -67,18 +65,17 @@ Hi there! I'm **Michael Abdul**, a passionate **Full Stack Developer** specializ
 
 ## 🔗 Connect With Me
 
-- ✉️ **Email:** [michaelabdul@example.com](mailto:michaelabdul@example.com)
-- 🌐 **Portfolio:** [michael-abdul.dev](https://michael-abdul.dev) *(Replace with your actual portfolio link)*
-- 💼 **LinkedIn:** [linkedin.com/in/michael-abdul](https://linkedin.com/in/michael-abdul)
-- 🐦 **Twitter:** [@michael_abdul](https://twitter.com/michael_abdul)
-- 📸 **Instagram:** [@michael_abdul](https://instagram.com/michael_abdul)
+- ✉️ **Email:** [abdulazizklichev1@gmail.com](mailto:abdulazizklichev1@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/abdulaziz_klichev](https://linkedin.com/in/abdulaziz_klichev)
+- 🐦 **Twitter:** [@abdulaziz_klichev](https://twitter.com/abdulaziz_klichev)
+- 📸 **Instagram:** [@abdulaziz_klichev](https://instagram.com/abdulaziz_klichev)
 
 ---
 
 ## 🧠 Current Projects
 
 - 🚀 Modern **UI Component Kit** for web applications
-- 📱 **Realtime Chat Application** for mobile
+- 📱 **Realtime Chat Application** for web and mobile
 - 🌐 Developing **Open Source API systems**
 
 ---
