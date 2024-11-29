@@ -1,26 +1,46 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Har kuni avtomatik yangilash
+    # Har 6 soatda avtomatik ishga tushadi
+    - cron: "0 */6 * * *"
+
+  # Actions tabdan qo'lda ishga tushirish imkoniyati
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
+    # Workflow'ni qaysi mashinada ishga tushirish kerakligini ko'rsating
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clone the repository
+      # Repository'ni yuklash
+      - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v2
+      # Ilmdosh animatsiyasini yaratish
+      - name: Generate Snake
+        uses: Platane/snk@master
+        id: snake-gif
         with:
-          github_user_name: michael-abdul
-          outputs: dist/snake.svg
+          github_user_name: michael-abdul # Bu yerda sizning GitHub username
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Push animation to the output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      # Ishlash jarayonini ko'rsatish uchun git statusni tekshiring
+      - run: git status
+
+      # O'zgartirishlarni `output` branchga push qilish
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: true
+
+      # `output` branchda natijani saqlash
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
