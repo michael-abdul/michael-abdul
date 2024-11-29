@@ -1,4 +1,4 @@
-# 💻 Michael Abdul
+# 💻 Abdulaziz Klichev
 
 ### 🚀 Full Stack Web & App Developer
 
