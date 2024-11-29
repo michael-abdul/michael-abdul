@@ -66,8 +66,8 @@ Hi there! I'm **Abdulaziz Klichev**, a passionate **Full Stack Developer** speci
 ## 🔗 Connect With Me
 
 - ✉️ **Email:** [abdulazizklichev1@gmail.com](mailto:abdulazizklichev1@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/abdulaziz_klichev](https://linkedin.com/in/abdulaziz_klichev)
-- 🐦 **Twitter:** [@abdulaziz_klichev](https://twitter.com/abdulaziz_klichev)
+- 💼 **LinkedIn:** [linkedin.com/in/abdulaziz-klichev])https://www.linkedin.com/in/abdulaziz-klichev
+- 🐦 **X:** [@abdulaziz60342](https://x.com/abdulaziz60342)
 - 📸 **Instagram:** [@abdulaziz_klichev](https://instagram.com/abdulaziz_klichev)
 
 ---
