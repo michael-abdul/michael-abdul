@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Bu mening GitHub profilim uchun Snake Animation:
-![Snake animation](https://raw.githubusercontent.com/michael-abdul/michael-abdul/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
@@ -18,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Snake animation](https://raw.githubusercontent.com/michael-abdul/michael-abdul/output/github-contribution-grid-snake.gif)
