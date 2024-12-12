@@ -91,5 +91,9 @@ Hi there! I'm **Abdulaziz Klichev**, a passionate **Full Stack Developer** speci
 ### Thank you for visiting my profile! 😊
 
 
-## Snake eating my contribution
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
+<h1>My Github contributions :</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michael-abdul/michael-abdul/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michael-abdul/michael-abdul/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/michael-abdul/michael-abdul/output/github-contribution-grid-snake.svg">
+</picture>
