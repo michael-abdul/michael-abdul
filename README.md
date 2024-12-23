@@ -24,11 +24,11 @@ Hi there! I'm **Abdulaziz Klichev**, a passionate **Full Stack Developer** speci
 
 ### **Database Management**
 - ⚡ MongoDB, Firebase
-- ⚡ SQLite
+- ⚡ SQLite, PostgreSQL
 
 ### **DevOps & Tools**
 - ⚡ Docker, PM2
-- ⚡ Git, GitHub, Gitea
+- ⚡ Git, GitHub, Gitea, GitLab
 - ⚡ Nginx, PM2
 
 ---
@@ -48,6 +48,17 @@ Hi there! I'm **Abdulaziz Klichev**, a passionate **Full Stack Developer** speci
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
+![PM2](https://img.shields.io/badge/-PM2-2B037A?logo=pm2&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Gitea](https://img.shields.io/badge/-Gitea-609926?logo=gitea&logoColor=white&style=flat-square)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Material-UI](https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
